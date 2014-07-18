@@ -1,4 +1,4 @@
-DV Consultoria de Comunicacao
+DV Consultoria de Comunicação
 =============
 
 Responsive landing page for DV Consultoria de Comunicação
