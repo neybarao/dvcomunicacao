@@ -41,7 +41,7 @@ body {
   background-color: #e51c23;
   border-top: 2px solid #ac151a;
   overflow: hidden;
-  padding: 10px 0;
+  padding: 0px 0;
 }
 /* line 39, ../sass/style.sass */
 #footer #contact ul, #footer #contact li {
